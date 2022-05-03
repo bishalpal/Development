@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    
+    height: 0px;
+    width: 5%;
+    border-width: 10px;
+    border-color: chocolate;
+    
+  }
+
+  h1, h3 {
+      color: #E04D01;
+  }
